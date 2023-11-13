@@ -1,0 +1,14 @@
+/* Додайте цей клас до вашого файлу style.css */
+.click-once {
+    background-color: green;
+    color: white;
+}
+
+.click-double{
+    background-color: yellow;
+    color: blue;
+}
+
+#myImage {
+    transition: width 0.5s, height 0.5s; /* Задаємо плавність анімації розміру */
+}
